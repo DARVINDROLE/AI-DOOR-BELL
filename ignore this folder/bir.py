@@ -17,7 +17,7 @@ sessions = {}
 # ===============================
 llm = ChatGroq(
     temperature=0,
-    groq_api_key="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",
+    groq_api_key="apikey",
     model_name="meta-llama/llama-4-scout-17b-16e-instruct"
 )
 
