@@ -1,0 +1,11 @@
+INFO:     127.0.0.1:56763 - "OPTIONS /ring HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56763 - "POST /ring HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56763 - "OPTIONS /tts HTTP/1.1" 200 OK
+Doorbell (Voice): Hello, welcome to the Kandell residence. May I ask your name and the purpose of your visit, please?
+INFO:     127.0.0.1:51379 - "POST /tts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53192 - "OPTIONS /ai-reply HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53192 - "POST /ai-reply HTTP/1.1" 200 OK
+Doorbell (Voice): Hello Mack, I'm notifying the owner, Mavapeda, now that you're here to see them.
+INFO:     127.0.0.1:53192 - "POST /tts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57941 - "GET /logs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59892 - "GET /captures/capture_201a0b9e6b954fa3a354be47e29339f1.jpg HTTP/1.1" 200 OK
